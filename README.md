@@ -42,7 +42,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧 Email: anna_b_pereira@estudante.sesisenai.org.br  
-💼 GitHub: https://github.com/
+💼 GitHub: https://github.com/annabpereira
 
 ---
 
