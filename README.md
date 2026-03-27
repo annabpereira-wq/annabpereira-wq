@@ -1,6 +1,9 @@
 # 👋 Olá, eu sou Anna Beatriz dos Santos Pereira
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação  
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação. (SENAI) Contratado pela Empresa JBS Seara Alimentos.
+🎓 Esudo no 1º Ano da Escola Escole de Educação Básica Governador Bornhausen.
+
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
